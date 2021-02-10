@@ -1,6 +1,6 @@
 # Give Plants a Voice
 
-Source code for my "Give Plants a Voice" project that I created as part of [Mark Rober's Creative Engineering](https://monthly.com/mark-rober-engineering/) course.
+Source code for my "Give Plants a Voice" project that I created as part of [Mark Rober's Creative Engineering](https://monthly.com/mark-rober-engineering/) course. Made together with my partner, [Lisa Tassone](https://github.com/lisatassone).
 
 ## Watch a demo
 
